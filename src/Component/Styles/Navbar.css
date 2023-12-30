@@ -1,0 +1,27 @@
+nav{
+    max-width: 360px;
+    min-width: 260px;
+    background-color: #11527e;
+    min-height:785px;
+    padding:2em 0em;
+    color:white;
+    position:sticky
+}
+.curlogo{
+    max-width:20%;
+}
+.list{
+    margin-top: 5em;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+    gap:1em;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+.nav-item{
+    padding:0em 0em 0em 2em
+}
+.nav-item:hover{
+    background:rgb(13, 115, 225);
+}
